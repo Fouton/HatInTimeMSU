@@ -1,0 +1,292 @@
+{
+	"$schema": "https://raw.githubusercontent.com/qwertymodo/msupmcplusplus/master/configs/schema#",
+	"game": "Link To The Past",
+	"pack": "Hat in Time",
+	"artist": "Gears for Breakfast",
+	"normalization": -17,
+	"output_prefix": "hit_lttp",
+  "tracks": [
+    {
+      "track_number": 1,
+      "title": "Title Intro",
+      "file": "Tracks\\A Hat in Time OST - 02 Title Screen.mp3",
+      "trim_start": 0,
+      "trim_end": 720000,
+      "fade_out": 88200
+    },
+    {
+      "track_number": 2,
+      "title": "Overworld",
+      "use_option": 2,
+      "options": [
+        {
+          "option": 1,
+          "file": "Tracks\\A Hat in Time OST - 66 Scootin' Through Clocktowers Beneath The Sea.mp3",
+          "trim_start": 0,
+          "trim_end": 7665079,
+          "loop": 2190857
+        },
+        {
+          "option": 2,
+          "file": "Tracks\\A Hat in Time OST - 35 The Big Parade.mp3",
+          "trim_start": 0,
+          "trim_end": 5929826,
+          "loop": 226560
+        }
+      ]
+    },
+    {
+      "track_number": 3,
+      "title": "Rain",
+      "file": "Tracks\\A Hat in Time OST - 30 The Phone's Ringing.mp3",
+      "trim_start": 0,
+      "trim_end": 6056694,
+      "loop": 2418448
+    },
+    {
+      "track_number": 4,
+      "title": "Bunny",
+      "file": "Tracks\\A Hat in Time OST - 45 Oh It's You.mp3",
+      "trim_start": 0,
+      "trim_end": 2793670,
+      "loop": 0
+    },
+    {
+      "track_number": 5,
+      "title": "Lost Woods",
+      "file": "Tracks\\A Hat in Time OST - 42 Subcon Forest.mp3",
+      "trim_start": 0,
+      "trim_end": 10571580,
+      "loop": 8027170
+    },
+    {
+      "track_number": 6,
+      "title": "Opening",
+      "file": "Tracks\\A Hat in Time OST - 14 Mafia HQ.mp3",
+      "trim_start": 0,
+      "trim_end": 10499328,
+      "loop": 0
+    },
+    {
+      "track_number": 7,
+      "title": "Kakariko Village",
+      "file": "Tracks\\A Hat in Time OST - 19 No More Mafia Boss.mp3",
+      "trim_start": 0,
+      "trim_end": 7939674,
+      "loop": 2296716
+    },
+    {
+      "track_number": 9,
+      "title": "Darkworld Overworld",
+      "use_option": 1,
+      "options": [
+        {
+          "option": 1,
+          "file": "Tracks\\A Hat in Time OST - 60 The Lava Cake Peak.mp3",
+          "trim_start": 0,
+          "trim_end": 7798505,
+          "loop": 822320
+        },
+        {
+          "option": 2,
+          "file": "Tracks\\A Hat in Time OST - 09 Barrel Battle.mp3",
+          "trim_start": 0,
+          "trim_end": 5822012,
+          "loop": 1392197
+        }
+      ]
+    },
+    {
+      "track_number": 10,
+      "title": "Master Sword Pedestal",
+      "file": "Tracks\\A Hat in Time B-Side - 85 Jingle Time Piece Ball Collected.mp3",
+      "trim_start": 0,
+      "trim_end": 460800
+    },
+    {
+      "track_number": 11,
+      "title": "File Select",
+      "file": "Tracks\\A Hat in Time OST - 03 File Select.mp3",
+      "trim_start": 0,
+      "trim_end": 4806193,
+      "loop": 1595068
+    },
+    {
+      "track_number": 12,
+      "title": "Guard Summoned",
+      "file": "Tracks\\A Hat in Time OST - 44 Snatcher's Contractual Obligations.mp3",
+      "trim_start": 0,
+      "trim_end": 3302048,
+      "loop": 390378,
+      "normalization": 4
+    },
+    {
+      "track_number": 13,
+      "title": "Skull Woods",
+      "file": "Tracks\\A Hat in Time OST - 63 Alpine Skyline at Night.mp3",
+      "trim_start": 0,
+      "trim_end": 13473520,
+      "loop": 390000
+    },
+    {
+      "track_number": 14,
+      "title": "Guessing Game",
+      "file": "Tracks\\A Hat in Time OST - 37 The Annual Bird Movie Award.mp3",
+      "trim_start": 0,
+      "trim_end": 5455040,
+      "loop": 824000
+    },
+    {
+      "track_number": 16,
+      "title": "Hyrule Castle",
+      "file": "Tracks\\A Hat in Time OST - 15 The Badge Seller.mp3",
+      "trim_start": 0,
+      "trim_end": 5345690,
+      "loop": 0
+    },
+    {
+      "track_number": 17,
+      "title": "Light World Dungeon",
+      "file": "Tracks\\A Hat in Time OST - 20 Scootin' Through Mafia Town.mp3",
+      "trim_start": 0,
+      "trim_end": 9660061,
+      "loop": 2400803
+    },
+    {
+      "track_number": 18,
+      "title": "Cave",
+      "file": "Tracks\\A Hat in Time OST - 38 Dead Bird Studio Basement.mp3",
+      "trim_start": 0,
+      "trim_end": 5290320,
+      "loop": 2115120,
+      "normalization": 4
+    },
+    {
+      "track_number": 19,
+      "title": "Boss Kill Fanfare",
+      "file": "Tracks\\A Hat in Time B-Side - 84 Jingle Time Piece Get.mp3",
+      "trim_start": 0,
+      "trim_end": 389376,
+      "normalization": 4
+    },
+    {
+      "track_number": 20,
+      "title": "Sanctuary",
+      "file": "Tracks\\A Hat in Time OST - 59 The Birdhouse Peak.mp3",
+      "trim_start": 0,
+      "trim_end": 8271317,
+      "loop": 200802
+    },
+    {
+      "track_number": 21,
+      "title": "Boss Fight",
+      "file": "Tracks\\A Hat in Time OST - 36 Turn on the Pyrotechnics.mp3",
+      "trim_start": 0,
+      "trim_end": 2215000,
+      "loop": 488000
+    },
+    {
+      "track_number": 22,
+      "title": "Dark World Dungeon",
+      "file": "Tracks\\A Hat in Time OST - 18 Heating Up Mafia Town.mp3",
+      "trim_start": 0,
+      "trim_end": 15812000,
+      "loop": 9910474
+    },
+    {
+      "track_number": 23,
+      "title": "Fortune Teller",
+      "file": "Tracks\\A Hat in Time OST - 24 The Ratings Are In.mp3",
+      "trim_start": 0,
+      "trim_end": 2646000,
+      "loop": 1587600
+    },
+    {
+      "track_number": 24,
+      "title": "Cave",
+      "file": "Tracks\\A Hat in Time OST - 38 Dead Bird Studio Basement.mp3",
+      "trim_start": 0,
+      "trim_end": 5290320,
+      "loop": 2115120
+    },
+    {
+      "track_number": 25,
+      "title": "Zelda Rescued",
+      "file": "Tracks\\A Hat in Time OST - 26 Picture Perfect (Remix).mp3",
+      "trim_start": 0,
+      "trim_end": 3531577,
+      "loop": 1038171
+    },
+    {
+      "track_number": 26,
+      "title": "Crystal Get",
+      "file": "Tracks\\A Hat in Time OST - 08 TimePiece Released.mp3",
+      "trim_start": 0,
+      "trim_end": 2029911,
+      "loop": 618711
+    },
+    {
+      "track_number": 27,
+      "title": "Fairy Fountain",
+      "file": "Tracks\\A Hat in Time OST - 69 Battle of the Birds Time Rift.mp3",
+      "trim_start": 0,
+      "trim_end": 4035998,
+      "loop": 2020864
+    },
+    {
+      "track_number": 28,
+      "title": "Ganon's Theme",
+      "file": "Tracks\\A Hat in Time OST - 29 Tick Tock.mp3",
+      "trim_start": 0,
+      "trim_end": 6053594,
+      "loop": 1224644
+    },
+    {
+      "track_number": 29,
+      "title": "Ganon Appears",
+      "file": "Tracks\\A Hat in Time B-Side - 78 Jingle Mafia HQ Entrance.mp3",
+      "trim_start": 0,
+      "trim_end": 361728
+    },
+    {
+      "track_number": 30,
+      "title": "Enter Ganon",
+      "file": "Tracks\\A Hat in Time OST - 17 Mafia Boss' Big Showdown (Remix).mp3",
+      "trim_start": 0,
+      "trim_end": 6636346,
+      "loop": 96640
+    },
+    {
+      "track_number": 31,
+      "title": "Ganon Battle",
+      "file": "Tracks\\A Hat in Time OST - 40 The Battle of Award 42.mp3",
+      "trim_start": 0,
+      "trim_end": 5377650,
+      "loop": 60000
+    },
+    {
+      "track_number": 32,
+      "title": "Triforce Chamber",
+      "file": "Tracks\\A Hat in Time OST - 72 Roll the Slots.mp3",
+      "trim_start": 0,
+      "trim_end": 2261500,
+      "loop": 723600
+    },
+    {
+      "track_number": 33,
+      "title": "Ending Scenes",
+      "file": "Tracks\\A Hat in Time OST - 25 Picture Perfect.mp3",
+      "trim_start": 1274988,
+      "trim_end": 11505038,
+      "fade_out": 220500
+    },
+    {
+      "track_number": 34,
+      "title": "Credits",
+      "file": "Tracks\\A Hat in Time OST - 78 The End.mp3",
+      "trim_start": 0,
+      "trim_end": 14114304
+    }
+  ]
+}
+			
