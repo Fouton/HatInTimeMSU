@@ -118,7 +118,6 @@
       "trim_start": 0,
       "trim_end": 3302048,
       "loop": 390378,
-      "normalization": 4
     },
     {
       "track_number": 13,
@@ -159,7 +158,6 @@
       "trim_start": 0,
       "trim_end": 5290320,
       "loop": 2115120,
-      "normalization": 4
     },
     {
       "track_number": 19,
@@ -167,7 +165,6 @@
       "file": "Tracks\\A Hat in Time B-Side - 84 Jingle Time Piece Get.mp3",
       "trim_start": 0,
       "trim_end": 389376,
-      "normalization": 4
     },
     {
       "track_number": 20,
