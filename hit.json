@@ -76,6 +76,13 @@
       "loop": 2296716
     },
     {
+      "track_number": 8,
+      "title": "warp",
+      "file": "Tracks\\warp.mp3",
+      "trim_start": 5502,
+      "trim_end": 215493
+    },
+    {
       "track_number": 9,
       "title": "Darkworld Overworld",
       "use_option": 1,
@@ -117,7 +124,7 @@
       "file": "Tracks\\A Hat in Time OST - 44 Snatcher's Contractual Obligations.mp3",
       "trim_start": 0,
       "trim_end": 3302048,
-      "loop": 390378,
+      "loop": 390378
     },
     {
       "track_number": 13,
@@ -157,14 +164,14 @@
       "file": "Tracks\\A Hat in Time OST - 38 Dead Bird Studio Basement.mp3",
       "trim_start": 0,
       "trim_end": 5290320,
-      "loop": 2115120,
+      "loop": 2115120
     },
     {
       "track_number": 19,
       "title": "Boss Kill Fanfare",
       "file": "Tracks\\A Hat in Time B-Side - 84 Jingle Time Piece Get.mp3",
       "trim_start": 0,
-      "trim_end": 389376,
+      "trim_end": 389376
     },
     {
       "track_number": 20,
