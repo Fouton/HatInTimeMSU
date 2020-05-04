@@ -17,23 +17,10 @@
     {
       "track_number": 2,
       "title": "Overworld",
-      "use_option": 2,
-      "options": [
-        {
-          "option": 1,
-          "file": "Tracks\\A Hat in Time OST - 66 Scootin' Through Clocktowers Beneath The Sea.mp3",
-          "trim_start": 0,
-          "trim_end": 7665079,
-          "loop": 2190857
-        },
-        {
-          "option": 2,
-          "file": "Tracks\\A Hat in Time OST - 35 The Big Parade.mp3",
-          "trim_start": 0,
-          "trim_end": 5929826,
-          "loop": 226560
-        }
-      ]
+      "file": "Tracks\\A Hat in Time OST - 35 The Big Parade.mp3",
+      "trim_start": 0,
+      "trim_end": 5929826,
+      "loop": 226560
     },
     {
       "track_number": 3,
@@ -85,23 +72,11 @@
     {
       "track_number": 9,
       "title": "Darkworld Overworld",
-      "use_option": 1,
-      "options": [
-        {
-          "option": 1,
-          "file": "Tracks\\A Hat in Time OST - 60 The Lava Cake Peak.mp3",
-          "trim_start": 0,
-          "trim_end": 7798505,
-          "loop": 822320
-        },
-        {
-          "option": 2,
-          "file": "Tracks\\A Hat in Time OST - 09 Barrel Battle.mp3",
-          "trim_start": 0,
-          "trim_end": 5822012,
-          "loop": 1392197
-        }
-      ]
+      "file": "Tracks\\A Hat in Time OST - 60 The Lava Cake Peak.mp3",
+      "trim_start": 0,
+      "trim_end": 7798505,
+      "loop": 822320
+
     },
     {
       "track_number": 10,
@@ -128,7 +103,7 @@
     },
     {
       "track_number": 13,
-      "title": "Skull Woods",
+      "title": "Dark Death Mountain",
       "file": "Tracks\\A Hat in Time OST - 63 Alpine Skyline at Night.mp3",
       "trim_start": 0,
       "trim_end": 13473520,
@@ -290,7 +265,127 @@
       "file": "Tracks\\A Hat in Time OST - 78 The End.mp3",
       "trim_start": 0,
       "trim_end": 14114304
-    }
+    },
+    {
+      "track_number": 35,
+      "title": "Eastern Palace",
+      "file": "Tracks\\A Hat in Time OST - 20 Scootin' Through Mafia Town.mp3",
+      "trim_start": 0,
+      "trim_end": 9660061,
+      "loop": 2400803
+    },
+    {
+      "track_number": 36,
+      "title": "Desert Palace",
+      "file": "Tracks\\A Hat in Time B-Side - 102 Beat the Heat.mp3",
+      "trim_start": 0,
+      "trim_end": 5236801,
+      "loop": 0
+    },
+    {
+      "track_number": 37,
+      "title": "Agahnim's Tower",
+      "file": "Tracks\\A Hat in Time OST - 73 Judge, Jury and Executioner.mp3",
+      "trim_start": 0,
+      "trim_end": 9032936,
+      "loop": 2360709
+    },
+    {
+      "track_number": 38,
+      "title": "Swamp Palace",
+      "file": "Tracks\\A Hat in Time B-Side - 29 Welcome To Mafia Town Underwater Variation.mp3",
+      "trim_start": 0,
+      "trim_end": 8056725,
+      "loop": 797897
+    },
+    {
+      "track_number": 39,
+      "title": "Palace of Darkness",
+      "file": "Tracks\\A Hat in Time B-Side - 103 Security Breach",
+      "trim_start": 0,
+      "trim_end": 9391654,
+      "loop": 1144680
+    },
+    {
+      "track_number": 40,
+      "title": "Misery Mire",
+      "file": "Tracks\\A Hat in Time OST - 12 She Came From Outer Space.mp3",
+      "trim_start": 0,
+      "trim_end": 6617881,
+      "loop": 2106833
+    },
+    {
+      "track_number": 41,
+      "title": "Skull Woods",
+      "file": "Tracks\\A Hat in Time OST - 66 Scootin' Through Subcon Forest.mp3",
+      "trim_start": 0,
+      "trim_end": 13967563,
+      "loop": 419069
+    },
+    {
+      "track_number": 42,
+      "title": "Ice Palace",
+      "file": "Tracks\\A Hat in Time OST - 66 Scootin' Through Clocktowers Beneath The Sea.mp3",
+      "trim_start": 0,
+      "trim_end": 7665079,
+      "loop": 2190857
+    },
+    {
+      "track_number": 43,
+      "title": "Tower of Hera",
+      "file": "Tracks\\A Hat in Time OST - 34 Trainwreck Of Electro Swing (Remix).mp3",
+      "trim_start": 0,
+      "trim_end": 9429153,
+      "loop": 829019
+    },
+    {
+      "track_number": 44,
+      "title": "Thieves' Town",
+      "file": "Tracks\\A Hat in Time OST - 92 Tour Rift Mafia Town.mp3",
+      "trim_start": 0,
+      "trim_end": 2418838,
+      "loop": 0
+    },
+    {
+      "track_number": 45,
+      "title": "Turtle Rock",
+      "file": "Tracks\\A Hat in Time OST - 18 Heating Up Mafia Town.mp3",
+      "trim_start": 0,
+      "trim_end": 15812000,
+      "loop": 9910474
+    },
+    {
+      "track_number": 46,
+      "title": "Ganon's Tower",
+      "file": "Tracks\\A Hat in Time B-Side - 128 Calm Hour.mp3",
+      "trim_start": 0,
+      "trim_end": 13175550,
+      "loop": 7165041
+    },
+    {
+      "track_number": 59,
+      "title": "Ganon's Tower 2",
+      "file": "Tracks\\A Hat in Time B-Side - 128 Rush Hour.mp3",
+      "trim_start": 0,
+      "trim_end": 11494416,
+      "loop": 5445877
+    },
+    {
+      "track_number": 60,
+      "title": "Light World 2",
+      "file": "Tracks\\A Hat in Time OST - 09 Barrel Battle.mp3",
+      "trim_start": 0,
+      "trim_end": 5822012,
+      "loop": 1392197
+    }/*,
+    {
+      "track_number": 61,
+      "title": "Dark World 2",
+      "file": "Tracks\\A Hat in Time B-Side - 121 Nyakuza Metro.mp3",
+      "trim_start": 1189071,
+      "trim_end": 3226697,
+      "loop": 806286
+    }*/
   ]
 }
 			
