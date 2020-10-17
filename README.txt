@@ -1,4 +1,4 @@
-To use this MSU pack, you must purchase both soundtracks from the Hat in Time game on Steam, both Original Soundtrack, and B-Side. Once you have these [Steam > steamapps > common > HatinTime > Soundtrack & Soundtrack (B-Side)], copy all files, or just the files listed in hit.json into the Tracks folder. Then, drag the hit json onto the msupcm app to automatically generate the pcm files needed.
+To use this MSU pack, you must purchase both soundtracks from the Hat in Time game on Steam, both Original Soundtrack, and B-Side. Once you have these [Steam > steamapps > common > HatinTime > Soundtrack & Soundtrack (B-Side)], copy all files, or just the files listed in hit.json into the Tracks folder. Then, drag the hit json onto the msupcm app to automatically generate the pcm files needed. Next, you'll need to edit the hit_lttp blank file to have the .msu extension, as Github wont let me do that anymore
 
 If you'd like to determine what tracks are what, just open hit.json in your favorite text/code editor and read through it. Note that you can change the options within the json to change songs.
 
